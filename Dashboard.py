@@ -148,8 +148,10 @@ with main2:
             x5=3
         elif feature3 == "associate's degree":
             x5=4 
-        elif feature3 == "master's degree":
+        elif feature3 == "bachelor's degree":
             x5=5    
+        elif feature3 == "master's degree":
+            x5=6
         if feature4 == "free/reduced":
             x6=1
         if feature4 == "standard":
